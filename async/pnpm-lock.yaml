@@ -1,0 +1,17 @@
+lockfileVersion: 5.3
+
+specifiers:
+  prettier: ^2.6.1
+
+dependencies:
+  prettier: registry.npmjs.org/prettier/2.6.1
+
+packages:
+
+  registry.npmjs.org/prettier/2.6.1:
+    resolution: {integrity: sha512-8UVbTBYGwN37Bs9LERmxCPjdvPxlEowx2urIL6urHzdb3SDq4B/Z6xLFCblrSnE4iKWcS6ziJ3aOYrc1kz/E2A==, registry: https://registry.npmjs.com/, tarball: https://registry.npmjs.org/prettier/-/prettier-2.6.1.tgz}
+    name: prettier
+    version: 2.6.1
+    engines: {node: '>=10.13.0'}
+    hasBin: true
+    dev: false
